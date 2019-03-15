@@ -436,7 +436,7 @@
     background-size: cover;
 }
 
-@media ( max-width: 800px ) {
+@media ( max-width: 750px ) {
 
     .navbar__links {
         width: 75%;
