@@ -494,12 +494,13 @@ body {
   .block1__logo--container {
     position: relative;
     margin-left: 30px;
+    height: 17.5vh;
   }
 
   .block1__logo {
     z-index: 4;
     width: 25vw;
-    height: 17.5;
+    height: 17.5vh;
   }
 
   .block1__placeholder {
@@ -606,9 +607,6 @@ body {
     width: 100vw;
     height: 57.5vh;
     right: 0;
-  }
-
-  .floating__img {
   }
 
   .block5__numbers--container {
