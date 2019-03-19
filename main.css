@@ -597,9 +597,17 @@ body {
     display: none;
   }
 
+  .floating__img--container {
+    height: 50vh;
+  }
+
   .float__img{
     width: 100vw;
+    height: 57.5vh;
     right: 0;
+  }
+
+  .floating__img {
   }
 
   .block5__numbers--container {
@@ -617,6 +625,9 @@ body {
   .block5__numbers {
     width: 25vw;
     height: 25vh;
+  }
+
+  .block5__icons {
   }
 
   .block5__icons--search {
