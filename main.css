@@ -499,6 +499,7 @@ body {
   .block1__logo {
     z-index: 4;
     width: 25vw;
+    height: 17.5;
   }
 
   .block1__placeholder {
@@ -628,6 +629,7 @@ body {
   }
 
   .block5__icons {
+    height: 17.5vh;
   }
 
   .block5__icons--search {
