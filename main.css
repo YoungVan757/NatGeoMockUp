@@ -534,6 +534,7 @@ body {
     position: absolute;
     left: 0;
     width: 25vw;
+    height: 25vh;
   }
 
   .block2__img {
@@ -565,6 +566,7 @@ body {
     position: absolute;
     left: 25%;
     width: 25vw;
+    height: 25vh;
   }
 
   .block3__img {
@@ -583,6 +585,7 @@ body {
     position: absolute;
     left: 50%;
     width: 25vw;
+    height: 25vh;
   }
 
   .block4__img {
